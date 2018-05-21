@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  DesignPatterns
+
+  Created by Radyslav Krechet on 2/12/18.
+  Copyright © 2018 RubyGarage. All rights reserved.
+*/
+
+"Button.Add" = "Add";
+"Button.OK" = "OK";
+
+"Dish.Bouillou" = "Bouillou";
+"Dish.Chips" = "Chips";
+"Dish.Coffee" = "Coffee";
+"Dish.Eggs" = "Eggs";
+"Dish.Pasta" = "Pasta";
+"Dish.Soup" = "Soup";
+"Dish.Steak" = "Steak";
+"Dish.Tea" = "Tea";
+
+"Label.NoItems" = "There are no items yet";
+"Label.NoItemsAdd" = "There are no items yet\nAdd something here";
+"Label.TryLater" = "Please try later";
+"Label.Order" = "Order";
+"Label.OrderPrice" = "Price: %@\nTips: %@";
+"Label.Haha" = "Haha";
+"Label.Wow" = "Wow";
+"Label.EventDescription" = "Name: %@\nEvent start: %@\nEvent end: %@";
+"Label.TotalPrice" = "Total price";
+"Label.Message" = "Message";
+"Label.LocationLog" = "time: %@ latitude: %@ longitude: %@";
+"Label.Error" = "Error";
+"Label.NoAccess" = "You haven't access";
+"Label.NotValidEmailAndPerson" = "Email and person data aren't valid";
+"Label.NotValidEmail" = "Email isn't valid";
+"Label.NotValidPerson" = "Person data isn't valid";
+"Label.ValidEmailAndPerson" = "Email and person data are valid";
+"Label.HaveAccess" = "You have access to %@";
+"Label.HaveNotAccess" = "You haven't access to %@";

@@ -1,0 +1,90 @@
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "0m6-Um-2bW"; */
+"0m6-Um-2bW.title" = "Back";
+
+/* Class = "UILabel"; text = "Memento"; ObjectID = "0zg-B9-4pa"; */
+"0zg-B9-4pa.text" = "Memento";
+
+/* Class = "UILabel"; text = "Proxy"; ObjectID = "4eZ-Mf-p7u"; */
+"4eZ-Mf-p7u.text" = "Proxy";
+
+/* Class = "UILabel"; text = "Abstract Factory"; ObjectID = "7WN-vd-hst"; */
+"7WN-vd-hst.text" = "Abstract Factory";
+
+/* Class = "UILabel"; text = "Decorator"; ObjectID = "EAR-q6-hbA"; */
+"EAR-q6-hbA.text" = "Decorator";
+
+/* Class = "UILabel"; text = "Chain of Responsibility"; ObjectID = "HAJ-BT-7ku"; */
+"HAJ-BT-7ku.text" = "Chain of Responsibility";
+
+/* Class = "UITableViewSection"; footerTitle = "Responsible for efficient object creation mechanisms, which increase the flexibility and reuse of existing code."; ObjectID = "JUA-Zq-Kzn"; */
+"JUA-Zq-Kzn.footerTitle" = "Responsible for efficient object creation mechanisms, which increase the flexibility and reuse of existing code.";
+
+/* Class = "UITableViewSection"; headerTitle = "Creational"; ObjectID = "JUA-Zq-Kzn"; */
+"JUA-Zq-Kzn.headerTitle" = "Creational";
+
+/* Class = "UINavigationItem"; title = "Design Patterns"; ObjectID = "ObF-J8-qsI"; */
+"ObF-J8-qsI.title" = "Design Patterns";
+
+/* Class = "UILabel"; text = "Builder"; ObjectID = "SpI-KY-vdx"; */
+"SpI-KY-vdx.text" = "Builder";
+
+/* Class = "UILabel"; text = "State"; ObjectID = "Szd-JI-uny"; */
+"Szd-JI-uny.text" = "State";
+
+/* Class = "UILabel"; text = "Composite"; ObjectID = "Wb4-ba-Eu2"; */
+"Wb4-ba-Eu2.text" = "Composite";
+
+/* Class = "UILabel"; text = "Flyweight"; ObjectID = "XGR-5M-5Uc"; */
+"XGR-5M-5Uc.text" = "Flyweight";
+
+/* Class = "UILabel"; text = "Prototype"; ObjectID = "ZUP-r5-qHD"; */
+"ZUP-r5-qHD.text" = "Prototype";
+
+/* Class = "UILabel"; text = "Factory Method"; ObjectID = "Zvx-8b-rJy"; */
+"Zvx-8b-rJy.text" = "Factory Method";
+
+/* Class = "UILabel"; text = "Singleton"; ObjectID = "aDG-IX-f3V"; */
+"aDG-IX-f3V.text" = "Singleton";
+
+/* Class = "UILabel"; text = "Facade"; ObjectID = "aPL-HL-VkR"; */
+"aPL-HL-VkR.text" = "Facade";
+
+/* Class = "UILabel"; text = "Mediator"; ObjectID = "b9S-Hz-BGs"; */
+"b9S-Hz-BGs.text" = "Mediator";
+
+/* Class = "UILabel"; text = "Command"; ObjectID = "edV-L4-31m"; */
+"edV-L4-31m.text" = "Command";
+
+/* Class = "UILabel"; text = "Observer"; ObjectID = "fJL-23-pME"; */
+"fJL-23-pME.text" = "Observer";
+
+/* Class = "UILabel"; text = "Bridge"; ObjectID = "hQJ-tk-SI4"; */
+"hQJ-tk-SI4.text" = "Bridge";
+
+/* Class = "UILabel"; text = "Visitor"; ObjectID = "jaP-gD-zc5"; */
+"jaP-gD-zc5.text" = "Visitor";
+
+/* Class = "UITableViewSection"; footerTitle = "Responsible for the efficient and safe distribution of behaviors among the program's objects."; ObjectID = "jww-ec-L0Y"; */
+"jww-ec-L0Y.footerTitle" = "Responsible for the efficient and safe distribution of behaviors among the program's objects.";
+
+/* Class = "UITableViewSection"; headerTitle = "Behavioral"; ObjectID = "jww-ec-L0Y"; */
+"jww-ec-L0Y.headerTitle" = "Behavioral";
+
+/* Class = "UITableViewSection"; footerTitle = "Responsible for building simple and efficient class hierarchies and relations between different classes."; ObjectID = "sdD-Uc-TXD"; */
+"sdD-Uc-TXD.footerTitle" = "Responsible for building simple and efficient class hierarchies and relations between different classes.";
+
+/* Class = "UITableViewSection"; headerTitle = "Structural"; ObjectID = "sdD-Uc-TXD"; */
+"sdD-Uc-TXD.headerTitle" = "Structural";
+
+/* Class = "UILabel"; text = "Adapter"; ObjectID = "tsY-s0-96v"; */
+"tsY-s0-96v.text" = "Adapter";
+
+/* Class = "UILabel"; text = "Strategy"; ObjectID = "wfq-xe-gt4"; */
+"wfq-xe-gt4.text" = "Strategy";
+
+/* Class = "UILabel"; text = "Template Method"; ObjectID = "x43-0l-Rf5"; */
+"x43-0l-Rf5.text" = "Template Method";
+
+/* Class = "UILabel"; text = "Iterator"; ObjectID = "xbF-Mz-kDf"; */
+"xbF-Mz-kDf.text" = "Iterator";
