@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ClickableEmptyView" customModule="DesignPatterns" customModuleProvider="target">
+            <connections>
+                <outlet property="button" destination="YSo-Eg-enf" id="Gkv-FC-qba"/>
+                <outlet property="titleLabel" destination="OwA-4m-S3O" id="01C-yw-rEP"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="gek-lf-q6c">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Title" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OwA-4m-S3O">
+                    <rect key="frame" x="15" y="323.5" width="345" height="20.5"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="0.50588235290000005" green="0.50588235290000005" blue="0.52549019610000003" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YSo-Eg-enf">
+                    <rect key="frame" x="164" y="359" width="46" height="30"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <state key="normal" title="Button">
+                        <color key="titleColor" name="Main"/>
+                    </state>
+                    <connections>
+                        <action selector="buttonDidPress:" destination="-1" eventType="touchUpInside" id="ke9-5b-Hwp"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="OwA-4m-S3O" firstAttribute="centerY" secondItem="gek-lf-q6c" secondAttribute="centerY" id="9dn-u6-ghS"/>
+                <constraint firstItem="YSo-Eg-enf" firstAttribute="centerX" secondItem="gek-lf-q6c" secondAttribute="centerX" id="avt-K1-Wlz"/>
+                <constraint firstItem="yGO-d7-lMg" firstAttribute="trailing" secondItem="OwA-4m-S3O" secondAttribute="trailing" constant="15" id="eOx-3Q-H76"/>
+                <constraint firstItem="YSo-Eg-enf" firstAttribute="top" secondItem="OwA-4m-S3O" secondAttribute="bottom" constant="15" id="evF-jL-024"/>
+                <constraint firstItem="OwA-4m-S3O" firstAttribute="leading" secondItem="yGO-d7-lMg" secondAttribute="leading" constant="15" id="lad-Av-5uR"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="yGO-d7-lMg"/>
+        </view>
+    </objects>
+    <resources>
+        <namedColor name="Main">
+            <color red="0.89399999380111694" green="0.3529999852180481" blue="0.31000000238418579" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>
